@@ -4,5 +4,5 @@ int main() {
 	printf("Hello world!\r\n");
 	printf("\n");
 
-	return 1;
+	return 0;
 }
